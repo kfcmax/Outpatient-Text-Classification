@@ -1,4 +1,4 @@
 # Outpatient-Text-Classification
 
-![visitor badge](https://visitor-badge.glitch.me/badge?repo_id=${kfcmax.Outpatient-Text-Classification.issue.1})
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${kfcmax.Outpatient-Text-Classification.issue.1})
 
